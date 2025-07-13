@@ -1,3 +1,5 @@
 This is the chat app for learning github
 
 Ned to add color
+
+payment methods
